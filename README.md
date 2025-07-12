@@ -21,7 +21,6 @@ This is my **B.Tech Major Project (2024–25)** combining the power of **Machine
 - **Web Framework**: Flask
 - **Frontend**: HTML, CSS, JavaScript
 - **Visualization**: Matplotlib, Seaborn
-- **Deployment-ready**: Flask app with prediction endpoint
 
 ---
 
@@ -93,20 +92,5 @@ The model is included as a .zip and can be extracted before use.
 Megha Shyam Adimallam
 📬 meghashyamadimalla2003@gmail.com
 🌐 Portfolio Website
-🔗 LinkedIn | GitHub
-
-⭐ If you liked this project, don't forget to give it a star!
-yaml
-Copy
-Edit
-
----
-
-### ✅ How to Add This
-
-1. Either:
-   - Create a `README.md` on GitHub and paste this
-   - Or run:
-
-```powershell
-notepad README.md
+🔗 LinkedIn
+🔗 GitHub
