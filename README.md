@@ -88,9 +88,13 @@ model.sav was over 100MB and is excluded from the repo (GitHub limit).
 
 The model is included as a .zip and can be extracted before use.
 
+📝 License
+This project is licensed under the MIT License.
+
 🙋‍♀️ Author
 Megha Shyam Adimallam
-📬 meghashyamadimalla2003@gmail.com
-🌐 Portfolio Website
-🔗 LinkedIn
-🔗 GitHub
+📬 Email: meghashyamadimalla2003@gmail.com
+🌐 Portfolio: https://www.meghashyamadimallam.com
+🔗 GitHub: @Meghashyam-adimallam
+🔗 LinkedIn: Megha Shyam
+
